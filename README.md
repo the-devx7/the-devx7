@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🚀 About Me:
 Hi, I’m Dev 👋<br><br>I’m an aspiring software developer with a keen interest in technology, software engineering and solving real-world problems.<br><br>I enjoy exploring how things work behind the code and continuously challenging myself to learn new concepts and technologies.<br><br>Currently Exploring<br><br>* C, Python and Java<br>* Data Structures and Algorithms (DSA)<br>* Web Development<br>* Artificial Intelligence<br><br>Goals<br><br>* Strengthen my programming fundamentals.<br>* Develop strong problem-solving skills.<br>* Build practical projects.<br>* Explore open-source development and collaborate with other developers.<br><br>Always learning. Always building. Always improving.
 
 
